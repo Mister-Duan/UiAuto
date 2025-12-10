@@ -8,7 +8,7 @@
   font-family: "Nunito Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 .storybook-button--primary {
-  border: 1px solid red;
+  border: 2px solid red;
   background-color: #555ab9;
   color: white;
 }
